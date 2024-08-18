@@ -2,6 +2,9 @@
 
 KeeLawg is a simple keylogger written in Python that captures and logs keystrokes. This tool can be used for educational purposes, cybersecurity research, or as a component in larger projects where monitoring of keystrokes is required. The script also includes functionality to email the log file when the keylogger is stopped.
 
+![image](https://github.com/user-attachments/assets/b8d00fa9-4214-45a1-b7dd-e9ffa46efd64)
+
+
 ## Legal Disclaimer
 
 This tool is intended for educational purposes only. Unauthorized use of this tool is illegal and unethical. The author does not take any responsibility for any misuse of this tool. Always obtain explicit permission before using this keylogger on any device that does not belong to you.
